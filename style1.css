@@ -1,0 +1,25 @@
+font{
+color:#bba421;
+font-family:Goudy Stout;
+font-size:30pt;
+text-align:center;
+}
+
+
+
+Anita{
+color:#FFD700;
+font-family:Garamond;
+font-size:25pt;
+}
+table,td{
+border:1px solid IVORY;
+border-collapse:collapse;
+background-color:#B4045F;
+}
+
+table,th{
+border:1px solid IVORY;
+border-collapse:collapse;
+background-color:#9ACD32;
+}
