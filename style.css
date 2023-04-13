@@ -1,25 +1,18 @@
-fontd {
-    color:#FFD700;
+font{
+    color:#000000;
     font-family:Goudy Stout;
-    font-size:30pt;
+    font-size:20pt;
     text-align:center;
     }
-    
-    
-    
-    Anita{
-    color:#FFD700;
-    font-family:Garamond;
-    font-size:25pt;
-    }
+        
     table,td{
-    border:5ch solid IVORY;
+    border:5ch solid rgb(26, 4, 4);
     border-collapse:collapse;
-    background-color:#B4045F;
+    background-color:#ffffff;
     }
     
     table,th{
-    border:5px solid IVORY;
+    border:5px solid rgb(14, 103, 175);
     border-collapse:collapse;
-    background-color:#9ACD32;
+    background-color:#1f9ac0;
     }
