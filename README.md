@@ -14,7 +14,6 @@ El comando git pull se emplea para extraer y descargar contenido desde un reposi
 git checkout:
 El comando git checkout te permite desplazarte entre las ramas creadas por git branch . Al extraer una rama, se actualizan los archivos en el directorio de trabajo para reflejar la versión almacenada en esa rama y se indica a Git que registre todas las confirmaciones nuevas en dicha rama.
 
-
 git log:
 El comando git log es una herramienta básica de Git para explorar el historial del repositorio. Este comando se usa cuando necesitas buscar una versión concreta de un proyecto o saber los cambios que se introducirán mediante la fusión en una rama de función.
 
@@ -34,3 +33,4 @@ El comando git push se usa para cargar contenido del repositorio local a un repo
 
 git merge:
 Permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama. Hay que tenern en cuenta que todos los comandos presentados a continuación se fusionan en la rama actual.
+probando brazo
